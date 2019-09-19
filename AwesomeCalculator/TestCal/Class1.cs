@@ -285,10 +285,10 @@ namespace TestCal
         }
         //GetSecondNumberTest3
         [Test]
-        public void DoGetSecondNumber_Inpu3and10_Returns_1()
+        public void DoGetSecondNumber_Inpu13and10_Returns_1()
         {
             //Arrange 
-            double fnum = 3;
+            double fnum = 13;
             double snum = 10;
             double ResultExpected = snum;
             Calc testCalulation = new Calc(fnum, snum);
