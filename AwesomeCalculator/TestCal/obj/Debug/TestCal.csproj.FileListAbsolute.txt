@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\Final Exam\Lab 2\AwesomeCalculator\TestCal\obj\Debug\TestCal.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Final Exam\Lab 2\AwesomeCalculator\TestCal\obj\Debug\TestCal.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Final Exam\Lab 2\AwesomeCalculator\TestCal\bin\Debug\TestCal.dll
+C:\Users\HP\Desktop\Final Exam\Lab 2\AwesomeCalculator\TestCal\bin\Debug\TestCal.pdb
+C:\Users\HP\Desktop\Final Exam\Lab 2\AwesomeCalculator\TestCal\bin\Debug\AwesomeCalculator.exe
+C:\Users\HP\Desktop\Final Exam\Lab 2\AwesomeCalculator\TestCal\bin\Debug\nunit.framework.dll
+C:\Users\HP\Desktop\Final Exam\Lab 2\AwesomeCalculator\TestCal\bin\Debug\AwesomeCalculator.pdb
+C:\Users\HP\Desktop\Final Exam\Lab 2\AwesomeCalculator\TestCal\bin\Debug\AwesomeCalculator.exe.config
+C:\Users\HP\Desktop\Final Exam\Lab 2\AwesomeCalculator\TestCal\bin\Debug\nunit.framework.pdb
+C:\Users\HP\Desktop\Final Exam\Lab 2\AwesomeCalculator\TestCal\bin\Debug\nunit.framework.xml
+C:\Users\HP\Desktop\Final Exam\Lab 2\AwesomeCalculator\TestCal\obj\Debug\TestCal.csproj.CopyComplete
+C:\Users\HP\Desktop\Final Exam\Lab 2\AwesomeCalculator\TestCal\obj\Debug\TestCal.dll
+C:\Users\HP\Desktop\Final Exam\Lab 2\AwesomeCalculator\TestCal\obj\Debug\TestCal.pdb
